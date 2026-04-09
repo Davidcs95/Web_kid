@@ -1,0 +1,17 @@
+.footer-one {
+background-color: #333333;
+}
+
+.End-one {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.End-one li {
+    padding: 30px;
+    list-style: none;
+    margin-right: 20px;
+    margin-left: 20px;
+    color: white;
+}

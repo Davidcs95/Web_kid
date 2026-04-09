@@ -1,0 +1,25 @@
+.seccion-two {
+    background-color: #FFFFFF;
+}
+
+.Tittle-one {
+
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
+.sentence-one {
+    display: flex;
+    text-align: center;
+    padding: 50px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font: size 30px;;
+}
+
+.cuadro-one p {
+    font-size: 40px;
+}

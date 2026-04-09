@@ -1,0 +1,13 @@
+.four-part {
+    display: flex;
+}
+
+.four-part .four-photo {
+
+display: flex;
+flex: 1;
+overflow: hidden;
+width: 500px;
+height: 500px;
+
+}

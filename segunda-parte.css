@@ -1,0 +1,57 @@
+.segunda-parte { 
+    background-color:#FFBF69 ;
+     
+    min-height: 100px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.cuadro-one { 
+    display: flex;
+    flex: 1; 
+    min-height: 500px;
+    background-color: #FFBF69;
+    flex-direction: column;
+    
+}
+
+
+.cuadro-one p {
+    color: #FFFFFF;
+    border: 20px;
+    margin-left: 10px;
+}
+
+
+.cuadro-two {
+    flex: 1;
+    background-color:  #FFBF69;
+    color: #FFFFFF;
+    
+    min-height: 500px;
+
+}
+
+.boton {
+
+    background-color: #CBF3F0;
+    color: black;
+    text-decoration: none;
+    border: 70px;
+    margin: 40px;
+    padding: 15px;
+    width: 200px;
+
+}
+
+.cuadro-one h1 {
+    color: white;
+    font-size: 100px;
+    margin-left: 40px;
+}
+
+.cuadro-one p {
+margin-left: 40px;
+
+}

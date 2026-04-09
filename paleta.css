@@ -1,0 +1,94 @@
+.third-part {
+    background-color: #CBF3F0;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.third-part h1 { 
+
+    display: flex;
+    justify-content: center;
+}
+
+.titulo-five {
+
+    background-color: #CBF3F0;
+    display: flex;
+    justify-content: center;
+}
+
+.boton-one  {
+    background-color: #E6AC5F;
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+    border: none;
+    padding: 15px;
+    
+    
+
+}
+
+.boton-one  {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.imagen-cuadro {
+    margin-left: 300px;
+}
+
+.paleta-one h3 {
+
+    margin-left: 300px;
+}
+
+.robot { 
+    width: 325.969px;
+    height: 268.992px;
+}
+
+.paleta-two h3 { 
+    margin-left: 70px;
+}
+
+.circulo {
+  width: 325.969px;
+  height: 268.969px;
+    margin-right: 60px;
+}
+
+.paleta-third h3 {
+    margin-left: 80px;
+
+}
+
+.titulo-five h1 {
+    margin-top: 70px;
+    margin-bottom: 30px;
+   
+}
+
+
+.boton-two {
+    background-color:#E6AC5F ;
+    border: none;
+    padding: 15px;
+    margin-top: 20px;
+margin-left: 130px;
+}
+.boton-tres  {
+    background-color: #E6AC5F;
+    border: none;
+    padding: 15px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+.titulo-five h1{
+
+ margin-left: 300px;
+
+}
+
